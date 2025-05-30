@@ -73,7 +73,7 @@ The current dataset contains 321 entries, but the original Kaggle dataset has **
 
 ## 📬 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/abhijeet-kuanr-6a2672160) or explore more of my projects [here](https://github.com/Abhijeet107).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhijeet-kuanr-6a2672160) or explore more of my projects [here](https://github.com/Abhijeet107).
 
 ---
 
